@@ -670,6 +670,20 @@ Tiene que ser de 0 ohms para proporcionar un corto circuito a tierra.
 
 R=1/fc=1/((8kHz)(100pF))=1250 kΩ
 
+*CONCLUSIONES 
+
+•
+
+•
+
+•
+
+*BIBLIOGRAFIA 
+
+• Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
+
+• https://www.canva.com/design/DAFE9DiMjzM/HxTaNWr82Y4bj41Xipuz1w/edit
+
 
 
 
