@@ -93,6 +93,8 @@ f=(numero de polos)(rpm)=(4)(3600rpm)=14400Hz=14.4kHz
 (c) promedio〖→v〗_prom=0.637v_p=0.0637(12v)=7.644v
 
 10. Para la onda seno de la figura 11-77, determine los valores pico, pico a pico, rms y promedio.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2010.png)
  
 v_p=25v
 
@@ -232,14 +234,9 @@ v=V_P  sin⁡〖θ→v=(15 V)sin⁡〖(200°+30°)=(15 V)sin⁡〖(230°)=-11.5 
 
 v=V_P  sin⁡〖θ→v=(15 V)sin⁡〖(300°+30°)=(15 V)sin⁡〖(330°)=-7.5 V〗 〗  〗
 
-	Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
+22. Trace un diagrama fasorial para representar las ondas seno de la figura 11-78 con respecto a la referencia de 0°.
  
- 
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2022.png) 
 
 24. Determine la frecuencia para cada velocidad angular.
 
@@ -251,7 +248,9 @@ c) 2  rad/s→f=  ω/2π→f=  (2 rad/s)/2π=0.32 Hz
 
 d) 1256  rad/s→f=  ω/2π→f=  (1256 rad/s)/2π=200 Hz
 
-	Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+26. Se aplica un voltaje sinusoidal al circuito resistivo de la figura 11-80. Determine los valores siguientes:
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2026.png)
  
 a) I_rms→0.707 (V_p/R)=0.707 ((10 V)/(1 kΩ))=7.07 mA
 
@@ -264,6 +263,8 @@ d) I_pp→ 2(10 mA)=20 mA
 e) i en el pico positivo→ 10 mA
 
 28.Determine el voltaje rms entre los extremos de R3 en la figura 11-82
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2028.png)
  
 I_pp=  V_pp/R_1 → I_pp=  (16 V)/(1 kΩ)=16 mA
 
@@ -289,9 +290,9 @@ v_p=4.242v
 
 v_p=v_CD=4,242
 
-
-
 32.La figura 11-83 muestra una fuente de voltaje sinusoidal dispuesta en serie con una fuente de cd. Efectivamente, los dos voltajes están superpuestos. Determine la disipación de potencia en el resistor de carga.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2032.png)
  
 Im=v_m/R_T 
 
@@ -317,21 +318,15 @@ Ciclo de trabajo en %=0.2%
 
 36. Determine el ciclo de trabajo de cada una de las formas de onda mostradas en la figura 11-86
  
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2036.png)
 
 38. ¿Cuál es la frecuencia de cada una de las formas de onda mostradas en la figura 11-86?
  
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2038.png)
 
 40. Una forma de onda no sinusoidal llamada escalonada se muestra en la figura 11-88. Determine su valor promedio
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2040.png)
  
 Valor promedio=(Área bajo la curva )/Período
 
@@ -351,30 +346,9 @@ f=1/(40µs)
 
 f=25 kHz
 
-
-
-
-
-
-
-
-
-
-
-
  44. Con base en los ajustes del instrumento y en un examen de la pantalla del osciloscopio y de la tarjeta prototipo mostrado en la figura 11-90, determine la frecuencia y el valor pico de las señales de entrada y salida. La forma de onda mostrada es el canal 1. Trace la forma de onda del canal 2 como aparecería en el osciloscopio con los ajustes indicados
  
-
-
-
-
-
-
-
-
-
-
-
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2044.png)
 
 2. Transforme los siguientes valores de microfarads a picofarads:
 
@@ -436,8 +410,11 @@ materiales dieléctricos.
 
 16. Muestre cómo conectar un capacitor electrolítico de un lado a otro de R2 entre los puntos A y B en la figura 12-66.
  
+ ![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2016%20cap.png)
  
 18. Identifique las partes del capacitor de disco de cerámica mostrado en la vista de corte de la figura 12-67
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2018%20cap.png)
  
 (a)  Encapsulación;(b)Dieléctrico (disco de cerámica) 
 
@@ -448,6 +425,8 @@ materiales dieléctricos.
 C_T=1000pF/5=200pF
 
 22. Para cada circuito de la figura 12-69, determine el voltaje entre las terminales de cada capacitor.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2022%20cap.png)
  
 Para (a)
 
@@ -462,6 +441,8 @@ Para (c)
 C_T=1/(1/10μF+1/4.7μF+1/47μF+1/22μF)=2.6μF
 
 24. La carga total guardada por los capacitores en serie de la figura 12-70 es de 10 mC. Determine el voltaje entre las terminales de cada capacitor.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2024%20cap.png)
  
 Q_T=Q_1=Q_2=Q_3=Q_4=10μC
 
@@ -475,12 +456,15 @@ V_1=Q_4/C_4 =10μC/10μF=1V
 
 26. ¿Cuál es la carga en cada capacitor de la figura 12-71?
 
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2026%20cap.png)
 
 	C_T=4pF+10pF+1000pF=1057pF
 
 	C_T=0.1μF+0.01μF+0.001μF+0.01μF=0.121μF
 
 28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2028%20cap.png)
  
 	V_AB=5V
   
@@ -502,6 +486,7 @@ El voltaje en un capacitor paralelo el voltaje será igual al voltaje de la fuen
   
 32. En el circuito de la figura 12-74, inicialmente el capacitor está descargado. Determine el voltaje presente en el capacitor en los instantes posteriores al cierre del interruptor:
  
+ ![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2032%20cap.png)
 	 V_F (1-e^(-t/RC) )         V=15V(1-e^(-10μS/10μS) )=9.48V 
    
 	V_F (1-e^(-t/RC) )         V=15V(1-e^(-20μS/10μS) )=13V
@@ -521,14 +506,20 @@ El voltaje en un capacitor paralelo el voltaje será igual al voltaje de la fuen
 	V_F (1-e^(-t/RC) )         V=15V(1-e^(-15μS/10μS) )=11.65V
   
 36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el interruptor.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2036%20cap.png)
  
 t=-RCln(v/v_i )= -(2.2kΩ)(0.01μF)  ln⁡(6v/12v)=15.2μs
 
 38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 12-75?
 
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2038%20cap.png)
+
 t=-RCln(v/v_i )= -(1kΩ)(1.5μF)  ln⁡(3v/25v)=3.18ms
 
 40. En la figura 12-78, inicialmente el capacitor está descargado. En el instante t =10 ms después de que se cierra el interruptor, el voltaje instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2040%20cap.png)
  
 t=-RCln(V/V_i )
 
@@ -537,6 +528,8 @@ R=(-t)/Cln(1-V_c/V_F )
 R=(-10 us)/((1000pF)ln⁡(1-7.2V/10V))=7.86 kΩ
 
 42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2042%20cap.png)
  
 	X_CT=1/2πfc=1/(2π(1kHz)(0.047μF))=3.39 kΩ
   
@@ -549,7 +542,8 @@ R=(-10 us)/((1000pF)ln⁡(1-7.2V/10V))=7.86 kΩ
 .X_CT=1/2πfc=1/(2π(60Hz)(0.5μF))=5.31 kΩ
 
 44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir una XC de 100 Ω? ¿Una XC de 1 kΩ?
- 
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2044%20cap.png)
 	
 Xc=100Ω
 
@@ -584,6 +578,8 @@ Xc=1/2π(10 kHz)(0.0047 μF) =3.39 KΩ
 v_rms=I_rms X_C=(1 mA)(3.39 kΩ)=3.39V
 
 48.Determine el voltaje de ca entre las terminales de cada capacitor y la corriente en cada rama del circuito de la figura 12-81.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2048%20cap.png)
 
  C_(5-6)=1/(1/(0.01 uF)+1/0.015uF)=0.006 uF
  
@@ -644,6 +640,8 @@ X_C5=53.1kΩ
 I_C5=Vc6/X_C6 =(202 mV)/(53.1kΩ )=3.80 uA
 
 50.Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían entre las terminales de los otros capacitores.
+
+![1](https://github.com/hmcasa1/Tarea-6/blob/b3a348a1fa669ce5159dbaf4269844443bc40dd6/Im%C3%A1genes/Ejercicio%2050%20cap.png)
  
 C_(5-6)=1/(1/(0.015 uF)+1/0.01uF+1/0.015uF)=0.0043 uF
 
