@@ -10,13 +10,13 @@ NRC:7322
 
 OBJETIVO GENERAL
 
- •
+ • Facilitar y agilizar el manejo y desempeño de los estudiantes dentro del laboratorio a la hora de trabajar con los instrumentos y enseñados en el tema, para poder tener un mejor aprendizaje tanto teorico como practico, trabajando de buena manera y basanadose en lo aprendido dentro del curso 
  
 OBJETIVO ESPECIFICO 
 
- •
+ •Trabajar de manera correcta con lo aprendido dentro de los temas tratados
  
- •
+ •Facilitar el uso y manejo de los materiales dentro del laboratio
 
 *MARCO TEORICO 
 
@@ -670,24 +670,15 @@ R=1/fc=1/((8kHz)(100pF))=1250 kΩ
 
 *CONCLUSIONES 
 
-•
+•Los temas tratados en estos capitulos fueron interesantes ya que son materiales que nos van a servir a futuro dentro del ambito de la carrera y  hasta para experiencia propia.
 
-•
-
-•
+•Las ondas sinusoidales nos seran de mucha ayuda y la forma en la que se nos explico que facilita mucho el trabajo porque se lo realizo de una forma sencilla y muy entendible para los estudiantes.
 
 *BIBLIOGRAFIA 
 
 • Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Educación Pearson. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comentarios en commit 73edc1a
 
 • https://www.canva.com/design/DAFE9DiMjzM/HxTaNWr82Y4bj41Xipuz1w/edit
-
-
-
-
-
-
-
 
 
 
